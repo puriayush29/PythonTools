@@ -1,3 +1,4 @@
+#Download IP WebCam app on android devices and put that ip address in the below field.
 import requests
 import numpy as np
 import cv2
